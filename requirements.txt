@@ -8,3 +8,8 @@ opencv-python
 reportlab
 qrcode
 plotly
+PyPDF2
+pandas
+numpy
+scikit-learn
+nltk
