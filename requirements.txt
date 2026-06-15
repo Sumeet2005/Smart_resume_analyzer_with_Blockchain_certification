@@ -1,0 +1,10 @@
+streamlit
+web3
+PyMuPDF
+Pillow
+pyzbar
+pyzxing
+opencv-python
+reportlab
+qrcode
+plotly

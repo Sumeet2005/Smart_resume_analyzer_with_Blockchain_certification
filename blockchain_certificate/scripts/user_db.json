@@ -1,0 +1,27 @@
+{
+    "bvc@edu.in": {
+        "password": "1234",
+        "role": "College",
+        "university_name": "Mumbai ",
+        "college_name": "Bharti Vidyapeeth ",
+        "college_code": "3021",
+        "naac_grade": "A++"
+    },
+    "dataverse@company.in": {
+        "password": "1234",
+        "role": "Company",
+        "company_name": "Dataverse",
+        "hr_name": "hr@123",
+        "hr_email": "Dataverse@company.in",
+        "company_phone": "8624880655",
+        "company_address": "kdkwcgdgckw"
+    },
+    "dypatil@edu.com": {
+        "password": "123456",
+        "role": "College",
+        "university_name": "Pune University",
+        "college_name": "DY Patil ",
+        "college_code": "DY154",
+        "naac_grade": "A++"
+    }
+}
