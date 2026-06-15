@@ -263,6 +263,40 @@ streamlit run resume_app.py
 
 ---
 
+## 🌐 Live Demo
+
+### Smart AI Resume Analyzer
+
+**Live Application:**
+
+https://smartresumeanalyzerwithblockchaincertification-tqo8sbac3xe2pb8.streamlit.app
+
+### Features Demonstrated Online
+
+* Resume Upload and Parsing
+* ATS Score Calculation
+* Skill Extraction
+* Candidate Ranking
+* Job Matching
+* Resume Analysis Dashboard
+
+### Blockchain Module
+
+The Blockchain Certificate Verification module has been implemented using Solidity, Web3.py, and Ganache for local testing and validation.
+
+Features:
+
+* Certificate Issuance
+* Certificate Verification
+* QR Code Based Validation
+* Tamper-Proof Certificate Hashing
+* Smart Contract Integration
+
+Future Enhancement:
+
+* Deployment on Ethereum Sepolia Testnet for public blockchain verification.
+
+
 ## Screenshots
 
 ### Home Page
